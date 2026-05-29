@@ -18,7 +18,6 @@ Bare-metal embedded robotics project built on an **ATmega328P** in **C**, featur
 
 ![Hovercraft bench testing](docs/IMG_8504.jpeg)
 
-[▶️ Watch demo video](https://youtube.com/shorts/Qc1ewwDGVW8?feature=share)
 
 ---
 
